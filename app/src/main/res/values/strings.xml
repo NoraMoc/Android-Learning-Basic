@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidDevLearning</string>
+    <string name="label_click">Click!</string>
+    <string name="label_clickable">Clickable!!</string>
+</resources>
